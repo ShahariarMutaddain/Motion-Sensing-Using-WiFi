@@ -34,3 +34,16 @@ anyone.
 RSSI varies with multipath, people, doors, access-point traffic, and other
 radio conditions. If the result is noisy, improve the placement or adjust
 `RSSI_CHANGE_THRESHOLD_DB` and `RSSI_CLEAR_THRESHOLD_DB` in `src/main.cpp`.
+<img width="3072" height="3072" alt="IMG_20261123_224554" src="https://github.com/user-attachments/assets/9ce1b034-6579-4a1a-a1bd-780bbbb7655d" />
+
+
+
+https://github.com/user-attachments/assets/331cea4f-131c-417f-9bb7-078de2741791
+
+
+
+
+
+https://github.com/user-attachments/assets/19b1086f-7345-4ca5-be68-2198dce43058
+
+
