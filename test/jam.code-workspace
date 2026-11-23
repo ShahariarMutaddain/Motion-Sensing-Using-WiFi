@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../janina"
+		},
+		{
+			"name": "RFID",
+			"path": "../../RFID"
+		},
+		{
+			"name": "heart sensor",
+			"path": "../../heart sensor"
+		},
+		{
+			"name": "SoccerBot",
+			"path": "../../SoccerBot"
+		},
+		{
+			"name": "WIFI_JAMMER",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
