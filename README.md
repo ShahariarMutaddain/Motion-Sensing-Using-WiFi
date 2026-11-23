@@ -31,6 +31,8 @@ anyone.
   the output should report `signal returned near baseline`.
 - Send `c` in the serial monitor to recalibrate with the area clear.
 
+- One limitation: RSSI alone cannot reliably tell whether a person moved—or even distinguish a person from other causes of signal changes. For dependable human-motion detection, use a PIR or mmWave sensor alongside the ESP32.
+
 RSSI varies with multipath, people, doors, access-point traffic, and other
 radio conditions. If the result is noisy, improve the placement or adjust
 `RSSI_CHANGE_THRESHOLD_DB` and `RSSI_CLEAR_THRESHOLD_DB` in `src/main.cpp`.
